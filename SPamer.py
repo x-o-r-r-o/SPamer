@@ -418,7 +418,8 @@ def sent (phoneNum, proxy, name, email):
 def main ():
 
 	print ('''
-Наш телеграмчик: @Termuxtop
+developer: @nkitas
+tg: @Termuxtop
 .▄▄ ·  ▄▄▄· ▄▄▄· • ▌ ▄ ·. ▄▄▄ .▄▄▄  
 ▐█ ▀. ▐█ ▄█▐█ ▀█ ·██ ▐███▪▀▄.▀·▀▄ █·
 ▄▀▀▀█▄ ██▀·▄█▀▀█ ▐█ ▌▐▌▐█·▐▀▀▪▄▐▀▀▄ 
